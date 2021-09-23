@@ -1,0 +1,1 @@
+C:\Developments\lottocombo\backend\venv\Scripts\activate.bat && cd.. && python manage.py runscript lottery quickpick
